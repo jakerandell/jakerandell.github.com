@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiments on Randell Coffee</title>
+    <link>http://randell.coffee/categories/experiments/</link>
+    <description>Recent content in Experiments on Randell Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://randell.coffee/categories/experiments/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Japanese Style Iced Coffee with a Graham Condenser</title>
+      <link>http://randell.coffee/post/japanese-style-iced-coffee-with-a-graham-condenser/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://randell.coffee/post/japanese-style-iced-coffee-with-a-graham-condenser/</guid>
+      <description>
+
+&lt;h2 id=&#34;synopsis:d3d40646f016403299cc5326932e2eba&#34;&gt;Synopsis&lt;/h2&gt;
+
+&lt;p&gt;So, I&amp;rsquo;ve always enjoyed a good &lt;a href=&#34;http://petergiuliano.tumblr.com/post/22177089634/why-you-should-stop-cold-brewing-and-use-the&#34;&gt;Japanese Style Iced Coffee&lt;/a&gt;, the benefits are multiple. A hot extraction means you don&amp;rsquo;t have to endure 12-24 long hours of cold brewing, but you still end up with a nice chilled end product. However, I was never a fan of brewing directly on to a body of ice in order to cool it down. Having to adjust the brew ratio to accommodate the ice that would melt in the process always seemed like an imperfect method. There had to be a better way.&lt;/p&gt;
+
+&lt;h2 id=&#34;enter-the-graham-condenser:d3d40646f016403299cc5326932e2eba&#34;&gt;Enter the Graham Condenser&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://randell.coffee/post-img/Japanese-Style-Iced-Coffee-with-a-Graham-Condenser/IMG_1310.jpg&#34; alt=&#34;The Set Up&#34; /&gt;
+&lt;img src=&#34;http://randell.coffee/post-img/Japanese-Style-Iced-Coffee-with-a-Graham-Condenser/IMG_1303.jpg&#34; alt=&#34;What a great joint.&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;operation-helicoidal-flow:d3d40646f016403299cc5326932e2eba&#34;&gt;Operation Helicoidal Flow&lt;/h2&gt;
+
+&lt;p&gt;The plan was to use the condenser mostly as intended. But instead of condensing a gas in the coils, I would be (hopefully) reducing the temperature of a liquid. To power the cooling jacket a submersible pump destined for a fish tank would be placed into a bowl of ice water pumping into the bottom inlet on the side of the condenser, flowing upward, and out the upper hose back into the bowl to complete the circuit.
+&lt;img src=&#34;http://randell.coffee/post-img/Japanese-Style-Iced-Coffee-with-a-Graham-Condenser/IMG_1306.jpg&#34; alt=&#34;The Ice Bucket&#34; /&gt;
+&lt;img src=&#34;http://randell.coffee/post-img/Japanese-Style-Iced-Coffee-with-a-Graham-Condenser/IMG_1309.jpg&#34; alt=&#34;Getting Frosty&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For this round, I brewed using my Chemex (are you following the lab theme yet?) and I plan to put that upper ring on the lab stand to use next time with a V60 resting directly on the ring and flowing directly into the funnel.
+&lt;img src=&#34;http://randell.coffee/post-img/Japanese-Style-Iced-Coffee-with-a-Graham-Condenser/IMG_1314.jpg&#34; alt=&#34;In Action&#34; /&gt;
+&lt;img src=&#34;http://randell.coffee/post-img/Japanese-Style-Iced-Coffee-with-a-Graham-Condenser/IMG_1316.jpg&#34; alt=&#34;In Action&#34; /&gt;
+&lt;img src=&#34;http://randell.coffee/post-img/Japanese-Style-Iced-Coffee-with-a-Graham-Condenser/IMG_1323.jpg&#34; alt=&#34;In Action&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;embed video-player&#34;&gt;
+	&lt;iframe src=&#34;https://player.vimeo.com/video/131327725&#34; width=&#34;640&#34; height=&#34;385&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;results:d3d40646f016403299cc5326932e2eba&#34;&gt;Results&lt;/h2&gt;
+
+&lt;p&gt;The first pass through the condenser lowered the temperature to ~45°C and each subsequent pass lowered it by ~10°C. I would like to achieve a faster rate of cooling. Perhaps I need to rig up some sort of restrictor at the bottom of the condenser allowing it to stay in the coil longer, or maybe the slower rate of pour directly from the V60 will help. I expect better results in the future!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
